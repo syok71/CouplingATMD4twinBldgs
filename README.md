@@ -3,7 +3,7 @@ Coupling ATMD system for seismic response control of two adjacent buildings
 
 The codes are to perform the simulation of coupling ATMD system for seismic response control of two adjacent buildings.
 The codes are based on the paper as follows:
-Kwan-Soon Park and Seung-Yong Ok, "Coupling ATMD system for seismic response control of two adjacent buildings, Shock and Vibration, Article ID 2060623, 2019.
+Kwan-Soon Park and Seung-Yong Ok, "Coupling ATMD system for seismic response control of two adjacent buildings," Shock and Vibration, Article ID 2060623, 2019.
 
 All programs can be performed based on the MATLAB progam by incorporating MATLAB Control System Toolbox. 
 The useful information about the codes is as follows
